@@ -1,4 +1,8 @@
 {
+  "parser": "typescript-eslint-parser",
+  "plugins": [
+    "typescript"
+  ],
   "extends": "eslint-config-airbnb-base",
   "rules": {
     "semi": [
